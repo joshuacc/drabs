@@ -4,10 +4,13 @@ Drabs is a collection of little JavaScript utilities that have their origin in t
 
 The name is a pun on the ([incorrect][phrase]) phrase "drips and drabs", meaning little by little.
 
+In addition to GitHub issues, discussion of Drabs is also welcome on the [JS Drip Google Group][group].
+
 #### License
 
 Drabs is released under the MIT license.
 
 [drip]:http://adripofjavascript.com
 [phrase]:http://grammarist.com/usage/dribs-and-drabs/
+[group]:https://groups.google.com/forum/?fromgroups#!forum/js-drip-discussions
 
