@@ -72,5 +72,5 @@
     "passfail"      : false,
     "white"         : false,
 
-    "predef"        : ["describe", "it", "expect"]
+    "predef"        : ["describe", "it", "expect", "drabs"]
 }
