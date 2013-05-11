@@ -1,0 +1,23 @@
+{
+    "name": "drabs",
+    "description": "Drips and drabs of helper utilities.",
+    "homepage": "https://github.com/joshuacc/drabs",
+    "author": "Joshua Clanton (http://joshuaclanton.com)",
+    "main": "dist/drabs.js",
+    "version": "0.0.1",
+    "license": "MIT",
+
+    "repository" : {
+        "type": "git",
+        "url": "git://github.com/joshuacc/drabs.git"
+    },
+
+    "devDependencies": {
+        "grunt": "~0.4.0",
+        "grunt-contrib-jasmine": "~0.4.2",
+        "grunt-contrib-uglify": "~0.2.0",
+        "grunt-contrib-watch": "~0.3.1",
+        "grunt-contrib-jshint": "~0.4.3",
+        "grunt-contrib-concat": "~0.3.0"
+    }
+}
